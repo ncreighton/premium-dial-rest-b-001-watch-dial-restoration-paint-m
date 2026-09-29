@@ -1,0 +1,2 @@
+# premium-dial-rest-b-001-watch-dial-restoration-paint-m
+Stop guessing the paint mix for vintage watch dials — start logging every successful formula so you can recreate perfect color matches every time.  This Notion template solves the pain of inconsistent color matching by providing a structured log to record paint brands, ratios, application notes, and results. It saves time and reduces waste from fai
